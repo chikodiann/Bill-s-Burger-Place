@@ -1,9 +1,6 @@
 # JAVA-OOP-Master-Challenge
 An application built using all the principles of object-oriented programming in Java
 
-OOP-Master-Challenge
-An application built using all the principles of object-oriented programming in Java
-
 The OOP CHALLEGE IS -> BILL'S BURGER CHALLENGE
 
 Bill runs a fast food hamburger restaurant, and sells hamburger meals. His meal orders are composed of three items, the hamburger, the drink, and the side item.
