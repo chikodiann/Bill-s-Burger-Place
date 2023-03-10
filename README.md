@@ -4,7 +4,7 @@ An application built using all the principles of object-oriented programming in 
 
 Bill runs a fast food hamburger restaurant, and sells hamburger meals. His meal orders are composed of three items, the hamburger, the drink, and the side item.
 
-Your application lets Bill select the type of burgers, and some of the additional items, or extras, that can be added to the burgers, as well as the actual pricing.
+The application lets Bill select the type of burgers, and some of the additional items, or extras, that can be added to the burgers, as well as the actual pricing.
 
 THE OBJECTS
 
