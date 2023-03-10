@@ -38,7 +38,7 @@ The deluxe burger should have room for an additional two toppings.
 
 THE FUNCTIONALITY
 
-*** Your main method should have code to do the following:
+*** The main method has code to do the following:
 
 • Create a default meal, that uses the no arguments constructor.
 
